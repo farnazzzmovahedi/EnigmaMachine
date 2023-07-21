@@ -29,7 +29,7 @@ Status: finished
 
 ## Documentation
 
-[--](https://linktodocumentation)
+[Main Doc](https://github.com/farnazzzmovahedi/EnigmaMachine/blob/main/Enigma/main%20doc.pdf)
 
 
 ## Feedback
